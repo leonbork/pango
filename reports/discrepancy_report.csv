@@ -1,0 +1,8 @@
+Discrepancy Report
+
+City,Web Temperature (°C),API Temperature (°C),Discrepancy (°C),Discrepancy (%)
+
+Summary Statistics
+Total Cities Analyzed,0
+Cities Exceeding Threshold,0
+No discrepancies exceeded the defined threshold.
