@@ -1,4 +1,4 @@
-# Pango Automation Interview Questions
+# Pango Automation Interview Answer
 ## Weather Discrepancy Analyzer
 
 This project collects and compares current temperature and “feels like” data from two sources — the OpenWeatherMap API and the timeanddate.com website — for 20 global cities. The data is stored in a local SQLite database, analyzed for discrepancies, and output as a CSV report with summary statistics.
